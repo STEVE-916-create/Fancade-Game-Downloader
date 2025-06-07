@@ -1,5 +1,8 @@
 # Fancade-Game-Downloader
-Ever wanted to download the original Drive Mad to edit all the levels? Saw a cool project of someone and wanted to get the full editable source? Well,...
+Ever wanted to download the original Drive Mad to edit all the levels?
+Saw a cool project of someone and wanted to get the full editable source?
+You want to own a bunch of games?
+Well,...
 
 This is a Python 3.11 tool that downloads Fancade Game files by the game link.
 
@@ -32,3 +35,7 @@ To use the program, `downloader.py`.
 There is a `input()` in the Python file to prompt you for the Fancade game link. Plus it makes it so that YOU can edit it!
 
 Remember to zip the downloaded file to actually import it to Fancade.
+
+## Risks and stuff
+
+no risks if you hide it, or u will be banned lmfao
