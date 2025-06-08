@@ -75,11 +75,11 @@ def hack_fancade_server_for_game_data(link):
     return hack_data
 
 def game_encrypt(hack_data):
-    print("Decrypting...")
+    print("Encrypting...")
     hack_data.seek(0)
     return io.BytesIO(zlib.compress(hack_data.read()))
 def game_decrypt(hack_data):
-    print("Encrypting...")
+    print("Decrypting...")
     hack_data.seek(0)
     return io.BytesIO(zlib.decompress(hack_data.read()))
 
